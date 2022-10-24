@@ -1,0 +1,30 @@
+
+/* font-family: Play*/
+@font-face{
+    font-family: Play;
+    src: url('../font/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf');
+}
+
+/* font-family: Raleway */
+@font-face{
+    font-family: Raleway;
+    src: url('../font/Raleway/Raleway-VariableFont_wght.ttf');
+}
+
+/* font-family: Flower */
+@font-face{
+    font-family: Flower;
+    src: url('../font/IndieFlower-Regular.ttf');
+}
+
+@font-face{
+    font-family: OpenSans;
+    src: url('../font/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+
+
+@font-face{
+    font-family: Roboto;
+    src: url('../font/Roboto/Roboto-Bold.ttf');
+
+}
